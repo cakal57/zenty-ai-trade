@@ -1,0 +1,52 @@
+{
+  "name": "YASAR AI Trading Platform",
+  "short_name": "YASAR AI",
+  "description": "AI-Powered Crypto & Stock Trading Platform",
+  "start_url": "/yasar-ai-platform/",
+  "display": "standalone",
+  "background_color": "#0B0C10",
+  "theme_color": "#00FFFF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/00FFFF/000000?text=YAI",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/00FFFF/000000?text=YAI",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "productivity", "business"],
+  "shortcuts": [
+    {
+      "name": "AI Alarmlar",
+      "short_name": "Alarmlar",
+      "description": "TradingView AI Alarmlarını Gör",
+      "url": "/yasar-ai-platform/#ai-alerts",
+      "icons": [
+        {
+          "src": "https://via.placeholder.com/96x96/00FF66/000000?text=AI",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Whale Alert",
+      "short_name": "Whale",
+      "description": "Büyük Transferleri İzle",
+      "url": "/yasar-ai-platform/#whale",
+      "icons": [
+        {
+          "src": "https://via.placeholder.com/96x96/00D4FF/000000?text=W",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}
+
