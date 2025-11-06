@@ -2,7 +2,7 @@
   "name": "YASAR AI Trading Platform",
   "short_name": "YASAR AI",
   "description": "AI-Powered Crypto & Stock Trading Platform",
-  "start_url": "/yasar-ai-platform/",
+  "start_url": "/zenty-ai-trade/",
   "display": "standalone",
   "background_color": "#0B0C10",
   "theme_color": "#00FFFF",
@@ -27,7 +27,7 @@
       "name": "AI Alarmlar",
       "short_name": "Alarmlar",
       "description": "TradingView AI Alarmlarını Gör",
-      "url": "/yasar-ai-platform/#ai-alerts",
+      "url": "/zenty-ai-trade/#ai-alerts",
       "icons": [
         {
           "src": "https://via.placeholder.com/96x96/00FF66/000000?text=AI",
@@ -39,7 +39,7 @@
       "name": "Whale Alert",
       "short_name": "Whale",
       "description": "Büyük Transferleri İzle",
-      "url": "/yasar-ai-platform/#whale",
+      "url": "/zenty-ai-trade/#whale",
       "icons": [
         {
           "src": "https://via.placeholder.com/96x96/00D4FF/000000?text=W",
@@ -49,4 +49,5 @@
     }
   ]
 }
+
 
