@@ -3,8 +3,8 @@
 
 const CACHE_NAME = 'yasar-ai-v1';
 const urlsToCache = [
-  '/yasar-ai-platform/',
-  '/yasar-ai-platform/index.html'
+  '/zenty-ai-trade/',
+  '/zenty-ai-trade/index.html'
 ];
 
 // Install event
@@ -71,4 +71,5 @@ self.addEventListener('fetch', event => {
 });
 
 console.log('🚀 Service Worker loaded!');
+
 
